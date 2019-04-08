@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simple Game1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_Game1_jar</output-path>
+    <root id="archive" name="Simple Game1.jar">
+      <element id="module-output" name="Simple Game1" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/jinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/jogg-0.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/jorbis-0.0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/slick.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Resources" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/lwjgl/native.zip" path-in-jar="/native/windows/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/lwjgl-3.2.1/lwjgl/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/lwjgl-3.2.1/lwjgl/lwjgl-natives-windows.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
