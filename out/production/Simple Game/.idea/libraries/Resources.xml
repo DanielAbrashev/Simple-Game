@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Resources">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Resources" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/slick.jar!/" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/lwjgl.jar!/" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/jorbis-0.0.15.jar!/" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/jogg-0.0.7.jar!/" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/jinput.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://C:/Program Files/Java/jre1.8.0_201/lib/Libs/Libs/jars/lwjgl.jar!/org/lwjgl/openal" />
+    </excluded>
+  </library>
+</component>
